@@ -72,8 +72,9 @@ The project implemented three prediction models with the following key findings:
 * Hyperparameter optimization with GridSearchCV
 * Explore more regularization techniques
 * Feature engineering for additional predictive power
-* 
-* Integration in pipeline
+  
+* Integration in pipeline. 
+                          
+<br>               
 
-
-*Project completed as part of machine learning consolidation during the BeCode Data Science & AI course- Duration: 4 days*
+*Project completed as part of machine learning consolidation during the BeCode Data Science & AI course - Duration: 4 days*
